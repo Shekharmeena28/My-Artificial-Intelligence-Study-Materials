@@ -1,2 +1,2 @@
 # My-Artificial-Intelligence-Study-Materials
-A knowledge base AI study
+Link to llmops databse - https://www.zenml.io/llmops-database
