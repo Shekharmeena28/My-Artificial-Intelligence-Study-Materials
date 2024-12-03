@@ -1,4 +1,5 @@
 # Evaluating a RAG solution
+Read the article for more comprehensive Knowledge - https://aws.amazon.com/blogs/machine-learning/from-rag-to-fabric-lessons-learned-from-building-real-world-rags-at-genaiic-part-1/
 Here’s a well-formatted explanation of traditional retrieval metrics for evaluating a retriever:
 
 ---
